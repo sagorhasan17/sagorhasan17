@@ -1,6 +1,7 @@
+![Full Stack MERN Developer](https://media.licdn.com/dms/image/v2/D5616AQE0jaJuB2esWA/profile-displaybackgroundimage-shrink_200_800/B56ZicjtdoHMAU-/0/1754973264574?e=1785369600&v=beta&t=3bAbUBnGQ3n3rotqCXIRsHgugL3cGX8F8RahOvsKrgQ)
 ### Hi there 👋, I'm, Sagor Hossain
 #### Full Stack MERN Developer
-![Full Stack MERN Developer](https://media.licdn.com/dms/image/v2/D5616AQE0jaJuB2esWA/profile-displaybackgroundimage-shrink_200_800/B56ZicjtdoHMAU-/0/1754973264574?e=1785369600&v=beta&t=3bAbUBnGQ3n3rotqCXIRsHgugL3cGX8F8RahOvsKrgQ)
+
 
 I'm Sagor Hossain, a Full Stack MERN Developer passionate about building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products using clean, maintainable code and continuously improving my skills in full-stack development.
 
